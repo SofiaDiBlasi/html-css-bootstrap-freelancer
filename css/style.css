@@ -1,16 +1,25 @@
+/*colore del body solo per regolarmi sulle scritte bianche poi lo tolgo*/
 body {
     background-color: pink;
 }
-
 
 .blue_bg {
     background-color: #2c3e50;
 }
 
 .green_bg {
-    backdrop-filter: #1abc9c;
+    background-color: #1abc9c;
 }
 
 a {
    text-decoration: none;
+}
+
+.avatar {
+    width: 12.5rem;
+}
+
+div hr {
+    width: 150px;
+    color: white;
 }
