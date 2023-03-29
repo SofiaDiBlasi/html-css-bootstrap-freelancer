@@ -19,7 +19,16 @@ a {
     width: 12.5rem;
 }
 
-div hr {
+.color_white {
     width: 150px;
     color: white;
+}
+
+hr {
+    width: 150px;
+}
+
+
+div img {
+    border-radius: 5%;
 }
